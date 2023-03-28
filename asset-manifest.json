@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/agency-fs/static/css/main.5ca9d154.css",
-    "main.js": "/agency-fs/static/js/main.2f276426.js",
+    "main.js": "/agency-fs/static/js/main.46c94c25.js",
     "static/media/Questrial-Regular.ttf": "/agency-fs/static/media/Questrial-Regular.96dd668fc36d87af7f89.ttf",
     "static/media/Michroma-Regular.ttf": "/agency-fs/static/media/Michroma-Regular.c12a12d1198168c85097.ttf",
     "index.html": "/agency-fs/index.html",
     "main.5ca9d154.css.map": "/agency-fs/static/css/main.5ca9d154.css.map",
-    "main.2f276426.js.map": "/agency-fs/static/js/main.2f276426.js.map"
+    "main.46c94c25.js.map": "/agency-fs/static/js/main.46c94c25.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca9d154.css",
-    "static/js/main.2f276426.js"
+    "static/js/main.46c94c25.js"
   ]
 }
